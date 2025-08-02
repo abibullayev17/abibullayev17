@@ -7,7 +7,7 @@ class Me:
         self.location = "Uzbekistan/Tashkent"
         self.interests = ["🐍 Python", "⚙️ DevOps"]
 
-    def contant(self): 
+    def contact(self): 
         return "📬 t.me/abibullayev17"
 ```
 
