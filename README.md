@@ -1,7 +1,7 @@
 <h1 align="center">Hello, Aziz here.</h1>
 
 <p align="center">
-economics • programming • data
+ECONOMICS • PROGRAMMING • DATA
 </p>
 
 <h3 align="center">Social</h3>
