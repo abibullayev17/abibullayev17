@@ -37,7 +37,7 @@ ECONOMICS • PROGRAMMING • DATA
   <img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge" height="30" alt="webstorm logo"  />
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abibullayev17&hide_title=true&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
